@@ -17,8 +17,8 @@ def isphonenumber(text):
     return True
 print('444-555-4242 is phone number: ')
 print(isphonenumber('444-555-4242'))
-print('moshi moshi is phone no. : ')
-print(isphonenumber('moshi moshi'))
+print('joshi joshi is phone no. : ')
+print(isphonenumber('joshi joshi'))
 
 message = 'call me at 444-555-0090 tomorrow, if not 445-554-1000'
 for i in range(len(message)):
